@@ -1,6 +1,6 @@
 {
   "name": "oro-sp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SitePoint Utils",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/orodio/sp-utils"
+    "url": "github.com/orodio/oro-sp"
   },
   "keywords": [
     "sitepoint",
@@ -17,9 +17,9 @@
   "author": "orodio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/orodio/sp-utils/issues"
+    "url": "https://github.com/orodio/oro-sp/issues"
   },
-  "homepage": "https://github.com/orodio/sp-utils",
+  "homepage": "https://github.com/orodio/oro-sp",
   "dependencies": {
     "lodash": "^2.4.1"
   }
