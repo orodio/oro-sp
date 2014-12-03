@@ -20,3 +20,5 @@ function authors(authorObjects) {
     }
   };
 }
+
+module.exports = authors;
