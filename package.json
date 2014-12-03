@@ -1,6 +1,6 @@
 {
   "name": "oro-sp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SitePoint Utils",
   "main": "index.js",
   "scripts": {
